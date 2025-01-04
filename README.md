@@ -1,3 +1,4 @@
+![logo](https://github.com/DheerajKumarRana/dheerajkumarrana/blob/main/fb.png)
 <h1 align="center">Hi 👋, I'm DHEERAJ KUMAR RANA</h1>
 <h3 align="center">A passionate Software developer, Fullstack developer, and Shopify developer from India</h3>
 
