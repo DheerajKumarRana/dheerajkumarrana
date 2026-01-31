@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dheerajkumar](https://github.com/dheerajkumarrana)
+- 👨‍💻 All of my projects are available at [https://github.com/dheerajkumar](https://github.com/DheerajKumarRana)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/dheeraj-kumar-rana](https://www.linkedin.com/in/dheeraj-kumar-rana)
 
